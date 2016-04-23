@@ -1,0 +1,74 @@
+/*
+Theme Name: DainelleRiley Blank Theme
+Theme URI: thedaydreamerdesigns.com/wp
+Author: Dainelle Riley
+Description: Blank theme for WIE course
+Version: 0.1
+License: Open
+Text Domain: riley_dainelle_blank_template
+*/
+
+@import url("css/normalize.css");
+@import url("css/skeleton.css");
+
+
+*{
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+}
+
+h2, h4, h6 {
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+h2 {
+    font-size: 2.0rem;
+}
+h3 {
+    font-size: 1.8rem;
+}
+h4 {
+    font-size: 1.5rem;
+}
+h5 {
+    font-size: 1.2rem;
+}
+h6 {
+    font-size: 1.0rem;
+}
+
+.blank-menu-header {
+    text-align: right;
+    margin-top: 40px;
+}
+.blank-menu-header ul {
+    margin: 0; 
+    padding: 0; 
+    list-style-type: none; 
+    list-style-image: none; 
+}
+.blank-menu-header li {
+    display: inline;
+}
+.blank-menu-header ul li a {
+    text-decoration:none;  
+    margin: 4px;
+    padding: 5px 0px 5px 40px; 
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.blank-menu-header ul li a:hover {
+    color: #cccccc;
+}
+
+.single-post-thumbnail img {
+    width: 100%;
+    height: auto;
+}
