@@ -7,24 +7,24 @@
 <?php wp_head(); ?>
 </head>
 <body>
-	<div class ="container">
+	<div class =""><!--Removed container class to expand entire width of page-->
 		<header class="row">
-			<div class="three columns">
+			<div class="two columns">
 				<img src="images/slicks-logo.png" class="twelve columns"/>
 			</div>
-			<div class="seven columns">
+			<div class="eight columns">
 				<ul class="nav">
-					<li>
-						<a href="#">SERVICES</a>
+					<li class="three columns">
+						<a href="#" class="12 columns">SERVICES</a>
 					</li>
-					<li>
-						<a href="#">BLOG</a>
+					<li class="three columns">
+						<a href="#" class="12 columns">BLOG</a>
 					</li>
-					<li>
-						<a href="#">ABOUT US</a>
+					<li class="three columns">
+						<a href="#" class="12 columns">ABOUT US</a>
 					</li>
-					<li>
-						<a href="#">CONTACT</a>
+					<li class="three columns">
+						<a href="#" class="12 columns">CONTACT</a>
 					</li>
 				</ul>
 			</div>
