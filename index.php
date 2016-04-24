@@ -3,7 +3,7 @@
         <section class="row">
             <div class="twelve columns">
                 <div class="slider twelve columns">
-                    <img src="slider-image"/>
+                    <img class="main-image" src="<?php bloginfo('url'); echo '/images/slicks-main.jpg';?>"/>
                     <div class="slider-buttons">
                         <div class="slider-button left-slider-button"></div>
                         <div class="slider-button right-slider-button"></div>

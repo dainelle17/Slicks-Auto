@@ -9,8 +9,8 @@
 <body>
 	<div class =""><!--Removed container class to expand entire width of page-->
 		<header class="row">
-			<div class="two columns">
-				<img src="images/slicks-logo.png" class="twelve columns"/>
+			<div class="two columns logo">
+				<img src="<?php bloginfo('url'); echo '/images/slicks-logo.png'; ?>" class="twelve columns"/>
 			</div>
 			<div class="eight columns">
 				<ul class="nav">
