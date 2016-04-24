@@ -112,6 +112,9 @@ header{
     text-decoration: none;
     font-weight: lighter;
 }
+.nav li a:hover{
+    color:#006699;
+}
 .mobile-img{
     max-height: 70px;
     float:right;
@@ -251,4 +254,22 @@ header{
 .about-us{
     background: #006699;
 }
+.about-us h2{
+    font-size: 25px;
+    color:white;
+}
+.about-us p{
+    font-size: 20px;
+    color:white;
+}
+.row.about-us .about-item{
+    display: block;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.about-item img{
+  border-radius: 50%;  
+  margin-bottom: 25px;
+}
+
 
