@@ -1,3 +1,5 @@
+<img  class="twelve columns"  src="<?php bloginfo('url'); echo '/images/contactus-page.png';?>"/>
+
 <div class="two columns space"></div>
 <div class="eight columns">
 	<form method="POST" class="contact-form twelve columns">

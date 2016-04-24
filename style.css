@@ -307,6 +307,28 @@ header{
     display: table-cell;
     vertical-align: middle;
 }
+/*
+    Blog
+*/
+.blog-container{
+    padding:20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.blog-container h3 > a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.blog-container > p{
+    font-size: 20px;
+    color:white;
+}
+
+
 
 
 
