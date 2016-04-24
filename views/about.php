@@ -1,3 +1,4 @@
+<img  class="twelve columns"  src="<?php bloginfo('url'); echo '/images/aboutus-page.png';?>"/>
 <section class="about-us row">
 	<div class="three columns">
 		<div class="about-item twelve columns">

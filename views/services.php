@@ -1,3 +1,4 @@
+<img  class="twelve columns"  src="<?php bloginfo('url'); echo '/images/services-page.png';?>"/>
 <section>
 	<div class="row blue-row">
 		<div class="one columns space"></div>

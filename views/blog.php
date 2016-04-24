@@ -1,7 +1,9 @@
 <?php 
 /*Template Name: Blog Posts */
 get_header(); ?>
+
 <?php query_posts('post_type=post&post_status=publish&posts_per_page=10&paged='. get_query_var('paged')); ?>
+	<img  class="twelve columns"  src="<?php bloginfo('url'); echo '/images/blog-page.png';?>"/>
     <div class="blog-wrapper">
     <div class="row">
     	<div class="two columns space"></div>
