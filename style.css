@@ -110,6 +110,10 @@ header{
     text-decoration: none;
     font-weight: lighter;
 }
+.mobile-img{
+    max-height: 70px;
+    float:right;
+}
 
 
 /*

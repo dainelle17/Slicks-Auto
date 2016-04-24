@@ -15,21 +15,21 @@
 			<div class="eight columns">
 				<ul class="nav">
 					<li class="three columns">
-						<a href="#" class="12 columns">SERVICES</a>
+						<a href="<?php bloginfo('url'); echo '/services'; ?>" class="12 columns">SERVICES</a>
 					</li>
 					<li class="three columns">
-						<a href="#" class="12 columns">BLOG</a>
+						<a href="<?php bloginfo('url'); echo '/blog'; ?>" class="12 columns">BLOG</a>
 					</li>
 					<li class="three columns">
-						<a href="#" class="12 columns">ABOUT US</a>
+						<a href="<?php bloginfo('url'); echo '/about'; ?>" class="12 columns">ABOUT US</a>
 					</li>
 					<li class="three columns">
-						<a href="#" class="12 columns">CONTACT</a>
+						<a href="<?php bloginfo('url'); echo '/contact-us'; ?>" class="12 columns">CONTACT</a>
 					</li>
 				</ul>
 			</div>
 			<div class="two columns mobile-icons">
-
+				<img src="<?php bloginfo('url'); echo '/images/fbtwitter.png';?>" class="eight columns mobile-img">
 			</div>
 		</header>
 		<!-- Add Menu Here -->
