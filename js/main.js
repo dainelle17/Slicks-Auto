@@ -27,6 +27,7 @@ $(".right-slider-button").on("click",function(e){
 	resetInterval();
 });
 
+
 function resetInterval(){
 	clearInterval(interval);
 	interval = setInterval(function(){
@@ -35,7 +36,6 @@ function resetInterval(){
 }
 
 function changeImage(){
-	
 	//Switch image
 	if(image_index < 0){
 		//Going backwards so set to last image

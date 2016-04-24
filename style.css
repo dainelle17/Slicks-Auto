@@ -271,8 +271,42 @@ header{
     padding-bottom:25px;
 }
 .about-item img{
-  border-radius: 50%;  
+  border-radius: 50%; 
+  width:220px;
+  height:220px; 
   margin-bottom: 25px;
+  margin-left: 35px;
 }
+
+.about-section{
+    padding-top: 25px;
+}
+
+.img-filter{
+    text-align: center;
+    width:220px;
+    height:220px;
+    background: rgba(0,0,0,0.6);
+    border-radius: 50%;
+    margin-left: 35px;
+    margin-top:-247px;
+    position: relative;
+    z-index: 10;
+    display: table;
+    opacity:0;
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    -o-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+.img-filter:hover{
+    opacity:1;
+}
+.img-filter div{
+    height:50px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
 
 
