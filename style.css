@@ -43,7 +43,9 @@ h5 {
 h6 {
     font-size: 1.0rem;
 }
-
+body{
+    background: black;
+}
 .blank-menu-header {
     text-align: right;
     margin-top: 40px;
@@ -149,6 +151,9 @@ header{
     background: #EEE;
     cursor:pointer;
 }
+/*.slider-button:hover{
+    background:#006699;
+}*/
 .left-slider-button{
     margin-left: 35px;
     float:left;
@@ -160,4 +165,45 @@ header{
     float:right;
     background: url(images/right-arrow.png) no-repeat center center;
     background-size: 60px;
+}
+
+.contact-form{
+    margin-top:100px;
+    border-radius: 10px;
+}
+.contact-form input{
+    color:#006699;
+}
+.contact-form textarea{
+    resize:none;
+}
+.contact-form h3{
+    text-align: center;
+    color:white;
+}
+.space{
+    display: block;
+    min-height: 1px;
+    min-width: 1px;
+}
+
+
+/*
+    Services
+*/
+.blue-row,.black-row{
+    padding:15px 25px;
+    color:white;
+}
+.blue-row h2,.black-row h2{
+    color:white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: lighter;
+}
+.blue-row{
+    background: #006699;
+}
+.black-row{
+    background: black;
 }

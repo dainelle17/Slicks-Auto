@@ -1,8 +1,7 @@
 <?php get_header(); ?>
 
     <div class="row">
-        <div class="two columns"></div>
-        <div class="eight columns">
+        <div class="twelve columns">
             <?php 
                 if (have_posts()) :
                     while (have_posts()) : the_post();
@@ -28,7 +27,6 @@
                 endif; 
             ?>
         </div>
-        <div class="two columns"></div>
     </div>
 
 <?php get_footer(); ?>
