@@ -10,6 +10,7 @@ Text Domain: riley_dainelle_blank_template
 
 @import url("css/normalize.css");
 @import url("css/skeleton.css");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 
 
 *{
@@ -19,6 +20,8 @@ Text Domain: riley_dainelle_blank_template
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 h2, h4, h6 {
@@ -89,7 +92,7 @@ header{
     Logo
 */
 .logo, .logo > img{
-   height:65px;
+   height:100%;
 }
 
 /*
