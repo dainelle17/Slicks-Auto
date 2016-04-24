@@ -5,8 +5,8 @@
                 <div class="slider twelve columns">
                     <img src="slider-image"/>
                     <div class="slider-buttons">
-                        <div class="slider-button left-slider-button">left</div>
-                        <div class="slider-button right-slider-button">right</div>
+                        <div class="slider-button left-slider-button"></div>
+                        <div class="slider-button right-slider-button"></div>
                      </div>
                 </div>
                 
