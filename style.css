@@ -197,13 +197,58 @@ header{
 }
 .blue-row h2,.black-row h2{
     color:white;
-    text-align: center;
     font-size: 35px;
     font-weight: lighter;
+}
+.blue-row p,.black-row p,.blue-row p b,.black-row p b{
+    color:white;
+    font-size:20px;
+    line-height: 1.2;
 }
 .blue-row{
     background: #006699;
 }
+.blue-row h2{
+    text-align: left;
+}
 .black-row{
     background: black;
 }
+.black-row h2{
+    text-align: center;
+}
+.black-row img{
+    min-height:300px;
+}
+.twelve.blue-block, .columns.blue-block{
+    display: block;
+    margin-left: -100px;
+}
+.services{
+    margin-top: -5px;
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+.services li{
+    font-weight: lighter;
+    font-size: 20px;
+    line-height: 1.2;
+    color:white;
+    padding-left: 1em; 
+    text-indent: -.7em;
+}
+
+.services li:before {
+    content: "• ";
+    color: white; /* or whatever color you prefer */
+}
+
+
+/*
+    About us
+*/
+.about-us{
+    background: #006699;
+}
+
