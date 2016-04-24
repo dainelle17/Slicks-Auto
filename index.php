@@ -8,6 +8,7 @@
                         <div class="slider-button left-slider-button"></div>
                         <div class="slider-button right-slider-button"></div>
                      </div>
+                     <a href="<?php bloginfo('url'); echo '/images/Online-MonthlyOffers-Coupons4-lg.jpg'?>" target="__blank" class="coupon-button">GET OFFER</a>
                 </div>
                 
                 <?php/*

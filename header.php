@@ -10,7 +10,7 @@
 	<div class =""><!--Removed container class to expand entire width of page-->
 		<header class="row">
 			<div class="two columns logo">
-				<img src="<?php bloginfo('url'); echo '/images/slicks-logo.png'; ?>" class="twelve columns"/>
+				<a href="<?php bloginfo('url');?>"><img src="<?php bloginfo('url'); echo '/images/slicks-logo.png'; ?>" class="twelve columns"/></a>
 			</div>
 			<div class="eight columns">
 				<ul class="nav">

@@ -1,14 +1,11 @@
 <!-- BEGIN FOOTER -->
 	<footer class="row">
-		<div class="four columns">
-			<?php //dynamic_sidebar('footer-left'); ?>
-		</div>
-		<div class="four columns">
+		
+		<div class="twelve columns footer-middle">
+			<p> (p) 813-917-2245 | 3405 W. Waters Avenue Tampa, FL | Slicks Auto Repair </p>
 			<?php //dynamic_sidebar('footer-middle'); ?>
 		</div>
-		<div class="four columns">
-			<?php //dynamic_sidebar('footer-right'); ?>
-		</div>
+		
 	</footer>
 </div>
 

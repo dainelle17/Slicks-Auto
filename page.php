@@ -7,16 +7,16 @@
                     while (have_posts()) : the_post();
                         switch (get_the_title()) {
                             case 'Contact Us':
-                                include 'views/contact.php';
+                                require_once 'views/contact.php';
                                 break;
                             case 'About US':
-                                include 'views/about.php';
+                                require_once 'views/about.php';
                                 break;
                             case 'Blog':
-                                include 'views/blog.php';
+                                require_once  'views/blog.php';
                                 break;
                             case 'Services':
-                                include 'views/services.php';
+                                require_once  'views/services.php';
                                 break;
                             
                             default:
@@ -24,7 +24,12 @@
                                 break;
                         }
                     endwhile;
-                endif; 
+                endif;
+
+                //If submitting contact form
+                if(!empty($_POST['submit-contact'])){
+                    require_once 'views/contact.php';
+                }
             ?>
         </div>
     </div>

@@ -172,10 +172,37 @@ header{
     background: url(images/right-arrow.png) no-repeat center center;
     background-size: 60px;
 }
+.coupon-button{
+    position: relative;
+    background: none;
+    z-index:100;
+    font-size: 25px;
+    border: solid white 4px;
+    padding:15px;
+    width: 250px;
+    text-align: center;
+    border-radius: 4px;
+    display: block;
+    margin:150px auto 0 auto;
+    color:white;
+    text-decoration: none;
+    opacity: 0;
+}
+.coupon-button:hover{
+     border: solid #006699 4px;  
+     color:#006699;
+}
+
+/*
+    Contact
+*/
 
 .contact-form{
-    margin-top:100px;
+    display: block;
+    margin:20px auto 40px auto;
     border-radius: 10px;
+    width:700px;
+    margin-left: -80px;
 }
 .contact-form input{
     color:#006699;
@@ -191,6 +218,22 @@ header{
     display: block;
     min-height: 1px;
     min-width: 1px;
+}
+
+.white-button{
+    position: relative;
+    background: none;
+    z-index:100;
+    font-size: 25px;
+    border: solid white 4px;
+    padding:15px;
+    width: 250px;
+    text-align: center;
+    border-radius: 4px;
+    display: block;
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 
@@ -327,7 +370,14 @@ header{
     font-size: 20px;
     color:white;
 }
-
+footer{
+    padding:20px 0;
+}
+.footer-middle p{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
 
 
 
