@@ -10,8 +10,17 @@
 			<div class="twelve columns blue-block">
 				<h2 class="twelve columns">OUR SERVICE PROMISE</h2>
 				<p class="twelve columns">
-					<b>Slicks Auto Repair was established in </b>
-					Whether you're looking for mechanical repair, collision repair, or fleet service
+					<b>Slicks Auto Repair was established in 1990 </b>
+					Whether you're looking for mechanical repair, collision repair, or fleet service. 
+					Slicks Auto Repair was established on a foundation of outstanding customer service 
+					and quality workmanship. Whether you're looking for mechanical repair, collision repair, 
+					or fleet service our highly trained staff adheres to one unbending guideline: your satisfaction. 
+					But we'd never expect to gain your business solely on an enthusiastic commitment. We back it up 
+					with a 100% satisfaction guarantee. The common perception is that a dealership is more expensive 
+					because it provides higher quality work and better service. That's just not true...and we're proof. 
+					Come to Slicks Auto Repair and you'll find our staff is more knowledgeable than the dealership's, 
+					our parts are of equal quality, our service is performed more personally and honestly, and we do it 
+					all at a less expensive rate. 
 				</p>
 			</div>
 		</div>
