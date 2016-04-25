@@ -19,6 +19,10 @@ Text Domain: riley_dainelle_blank_template
     line-height: 16px;
 }
 
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
 
@@ -32,10 +36,12 @@ h1 {
     font-size: 2.4rem;
 }
 h2 {
-    font-size: 2.0rem;
+    font-size: 2.2rem;
 }
 h3 {
-    font-size: 1.8rem;
+    font-size: 2.0rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
 h4 {
     font-size: 1.5rem;

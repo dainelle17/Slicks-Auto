@@ -32,20 +32,23 @@
 				<b>Slicks Auto Repair was established in </b>
 				<ul class="services">
 					<li> 
-						item 1<br>
-						text after bold
+						Preventive maintenance: <br>
+						
+					Provides for routine inspection of equipment and records done by our experts.
+
 					</li>
 					<li>
-						item 2<br>
-						text after bold
+						Predictive maintenance: <br>
+					Identifies potential unplanned failures before they negatively impact your facility and budget. 
 					</li>
 					<li>
-						item 3<br>
-						text after bold
+						Emergency service:<br>
+					Gets your system back online, quickly and efficiently.
+
 					</li>
 					<li>
-						item 4<br>
-						text after bold
+						Performance improvement services:<br>
+					Delivers performance reporting to assure peak efficiency.
 					</li>
 				</ul>
 			</p>
