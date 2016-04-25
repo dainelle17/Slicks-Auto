@@ -36,6 +36,28 @@
 		</div>
 	</div><!--End of left section-->
 	<div class="nine columns about-section">
-		<h2>This is a page about us!!!</h2>
+		<h3>Why Choose Slick's Auto Repair </h3>
+		<p>If you're looking for a local Auto Repair shop that you can trust, 
+		consider Slick’s Auto Repair. Ever since 1990, Slick’s Auto Repair has 
+		been providing our friends and neighbors in Tampa with dependable, trustworthy 
+		Auto Repair services. Whether your vehicle needs a minor tune-up to a major overhaul, 
+		our trained service technicians are skilled at quickly diagnosing and pinpointing solutions 
+		to problems, saving you valuable time and money.</p>
+		<hr>
+
+		<h3>A Commitment to Customer Satisfaction</h3>
+		<p>At Slick’s Auto Repair, our number one goal is complete customer satisfaction. Every day, 
+			with every customer, we focus on providing high-quality Auto Repair services coupled with 
+			top-notch customer service. With countless 5-star reviews and customer testimonials, we are 
+			proud of our reputation as one of the Tampa area's most trustworthy Auto Repair shops.</p>
+		<hr>
+
+		<h3>A True Alternative to the Dealer</h3>
+		<p>Looking for an affordable alternative to the high auto repair service pricing at the local 
+		dealership? Slick’s Auto Repair can help. Owned by an ASE Certified Master Technician and supported
+		by a team of certified mechanics who receive ongoing training in automotive technology and auto repair 
+		services, we're proud to be able to offer you dealership quality knowledge and experience without dealership pricing!</p>
+		<hr>
+
 	</div>
 </section>
