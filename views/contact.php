@@ -32,7 +32,6 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 			</div>
 			<div class="four columns">
 				<input type="hidden" name="submit-contact" value="1">
-				<h3 class="twelve columns">Drop us a line</h3>
 				<input type="text" name="name" placeholder="Full Name" class="twelve columns">
 				<input type="email" name="email" placeholder="Email Address" class="twelve columns">
 				<input type="text" name="phone" placeholder="Phone Number" class="twelve columns">

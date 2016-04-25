@@ -21,8 +21,29 @@ Text Domain: riley_dainelle_blank_template
 
 p {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
+    color: #ffffff;
 }
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.about-us h2 {
+    font-size: 25px;
+    color:white;
+    font-weight: lighter;
+}
+.about-us p {
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 300;
+   color: white;
+   line-height: 1.5;
+
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
 
@@ -41,7 +62,8 @@ h2 {
 h3 {
     font-size: 2.0rem;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
+    color:#ffffff;
 }
 h4 {
     font-size: 1.5rem;
@@ -306,14 +328,7 @@ header{
 .about-us{
     background: #006699;
 }
-.about-us h2{
-    font-size: 25px;
-    color:white;
-}
-.about-us p{
-    font-size: 20px;
-    color:white;
-}
+
 .row.about-us .about-item{
     display: block;
     padding-top:25px;
@@ -381,8 +396,10 @@ footer{
 }
 .footer-middle p{
     color:white;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
 
 

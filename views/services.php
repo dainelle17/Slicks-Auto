@@ -10,8 +10,7 @@
 			<div class="twelve columns blue-block">
 				<h2 class="twelve columns">OUR SERVICE PROMISE</h2>
 				<p class="twelve columns">
-					<b>Slicks Auto Repair was established in 1990 </b>
-					Whether you're looking for mechanical repair, collision repair, or fleet service. 
+					<p>Whether you're looking for mechanical repair, collision repair, or fleet service. 
 					Slicks Auto Repair was established on a foundation of outstanding customer service 
 					and quality workmanship. Whether you're looking for mechanical repair, collision repair, 
 					or fleet service our highly trained staff adheres to one unbending guideline: your satisfaction. 
@@ -29,7 +28,8 @@
 		<h2 class="twelve columns">WHAT WE OFFER</h2>
 		<div class="six columns">
 			<p>
-				<b>Slicks Auto Repair was established in </b>
+				<p>Slicks offers you flexible services and solutions that can be tailored to meet your specific facility 
+				requirements and budget.</p>
 				<ul class="services">
 					<li> 
 						Preventive maintenance: <br>
